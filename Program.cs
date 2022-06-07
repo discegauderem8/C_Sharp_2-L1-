@@ -1,15 +1,18 @@
-﻿Console.WriteLine("Введите имя пользователя");
+﻿int a = 1;
+int b = 3;
+int c = 6;
+int d = 999999;
+int e = 2;
 
-string username = Console.ReadLine();
+int max = a;
 
-if (username.ToLower() == "маша")
-{
-    Console.WriteLine("Ура! Это же МАША!");
-}
-else
-{
-    Console.Write("Привет,");
-    Console.Write(username);
-}
+if (b > max) max = b;
+if (c > max) max = c;
+if (d > max) max = d;
+if (e > max) max = e;
+
+Console.Write("Наибольшее значение - ");
+Console.Write(max);
+
 
 

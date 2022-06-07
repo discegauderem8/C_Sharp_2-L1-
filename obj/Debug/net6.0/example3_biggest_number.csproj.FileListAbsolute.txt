@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.AssemblyInfo.cs
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\bin\Debug\net6.0\example3_biggest_number.exe
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\bin\Debug\net6.0\example3_biggest_number.deps.json
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\bin\Debug\net6.0\example3_biggest_number.runtimeconfig.json
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\bin\Debug\net6.0\example3_biggest_number.dll
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\bin\Debug\net6.0\example3_biggest_number.pdb
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.dll
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\refint\example3_biggest_number.dll
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.pdb
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\example3_biggest_number.genruntimeconfig.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example3_biggest_number\obj\Debug\net6.0\ref\example3_biggest_number.dll
